@@ -1,0 +1,5 @@
+Bird,crow (ворон),2,0.9
+Mammal,lion (лев),5,желто-серый
+Reptile,cobra (кобра),3,True
+ZooKeeper,смотритель Васильев
+Veterinarian,ветеринар Иванов
